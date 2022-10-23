@@ -1,4 +1,5 @@
-**10 Days notes for Python built-in data structure**
+### 10 Days notes for Python built-in data structure
+
 | Day   | Topic |
 |:-------|:------|
 | Day 01 | Introduction of Python built-in data structure |
